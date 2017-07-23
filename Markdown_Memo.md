@@ -54,6 +54,8 @@ Markdown测试
 
 - **P.S.** 补充一种高端的链接: [鼠标移过来，**先别单击** ~][hover]
 [hover]: http://www.baidu.com "你即将点击百度网站。好，现在单击吧"
+### 该方法实验发现也只能在Macdown工具中正常使用，在Typora中也会异常
+
 
 ## 图片
 ![](/Users/bevis/Downloads/my/Energy2300.psd)
@@ -114,12 +116,13 @@ col1 | col2 | col3
 | a1 | a2 | a3 |
 b1|b2|b3
 
-##使用Latex网页生成公式
+## 使用Latex网页生成公式
 ![](http://latex.codecogs.com/gif.latex?\abc\(n_{i}\)+1)
 
-##可以使用如下语法等价替换：
-**![][1]
+## 可以使用如下语法等价替换：
+![][1]
 [1]: http://latex.codecogs.com/gif.latex?\fx\(n_{i}\)+1
+### 该方法实验发现只能在Macdown工具中正常使用，在Typora中也会异常
 
  
 ## 学习网站备注
