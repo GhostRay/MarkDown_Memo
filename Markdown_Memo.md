@@ -58,7 +58,7 @@ Markdown测试
 
 
 ## 图片
-![](/Users/bevis/Downloads/my/Energy2300.psd)
+![](https://github.com/happybevis/MarkDown_Memo/Energy2300.png)
 
 ### 沙扬娜拉－－徐志摩
 >  最是那一低头的温柔，
