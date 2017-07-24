@@ -56,6 +56,9 @@ Markdown测试
 [hover]: http://www.baidu.com "你即将点击百度网站。好，现在单击吧"
 ### 该方法实验发现也只能在Macdown工具中正常使用，在Typora中也会异常
 
+可用如下方式实现，实测有效
+- [baidu链接](http://baidu.com "鼠标移过来，**先别单击** ~")
+
 
 ## 图片
 ![](https://github.com/happybevis/MarkDown_Memo/raw/master/Energy2300.jpg)
